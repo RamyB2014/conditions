@@ -84,7 +84,11 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:matchPercent="0" /></target><alt-trans
+          mid="1"
+          match-quality="0"
+          origin="ScreenExcluded"><seg-source>Flattened variable definition &gt; Flattened Definition Variable here</seg-source><target
+            MadCap:segmentStatus="Untranslated" /></alt-trans></trans-unit><trans-unit
         id="5"
         restype="x-xml-variable"
         phase-name="pretrans"><source>Unflattened variable definition &gt; <ph

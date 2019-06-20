@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<LingoProject TargetLanguage="ar;de" xml:lang="ar" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" flattenSnippets="false" SelectedTarget="" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="e2d7190b-6164-4945-bf8c-f5520393e20b">
+<LingoProject TargetLanguage="ar;de" xml:lang="ar" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" flattenSnippets="true" SelectedTarget="Project/Targets/ScreenExcluded.fltar" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="e2d7190b-6164-4945-bf8c-f5520393e20b">
+    <FlattenedVariables>subVarFolder/ConditionedOutNewVariables.FlattenedDefVar;subVarFolder/NewVariables.FlattenedDefVar</FlattenedVariables>
     <ProjectFile Source="Target/Conditions.flprj" Target="Target/Conditions.flprj" />
 </LingoProject>
